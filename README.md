@@ -1,8 +1,9 @@
 # Image Processing and Analysis
 
 **Teaching Material and Resources for an Image Processing and Analysis Lecture**
-Hannah S. Heil, Lund University, November 2025
 ---
+Hannah S. Heil, Lund University, November 2025
+
 
 ## 📚 Overview
 
