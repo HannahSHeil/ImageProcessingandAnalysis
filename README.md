@@ -1,4 +1,4 @@
-# ImageProcessingandAnalysis
+# Image Processing and Analysis
 
 **Teaching Material and Resources for an Image Processing and Analysis Lecture**
 
@@ -23,7 +23,7 @@ The repository includes:
 
 Click the **“Open in Colab”** badge or open directly via Colab:
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HannahSHeil/ImageProcessingandAnalysis/blob/main/notebooks/CellSegmentation_Exercise.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HannahSHeil/ImageProcessingandAnalysis/blob/main/notebooks/CellSegmentation_Exercise.ipynb)
 
 > Students should **make a copy** of the notebook in their own Google Drive to run and modify it independently.
 
