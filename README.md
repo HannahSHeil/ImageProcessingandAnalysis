@@ -1,23 +1,21 @@
 # Image Processing and Analysis
 
 **Teaching Material and Resources for an Image Processing and Analysis Lecture**
-
+Hannah S. Heil, Lund University, November 2025
 ---
 
 ## 📚 Overview
 
-This repository contains teaching materials, exercises, and resources for an **Image Processing and Analysis** lecture. It is intended for students, instructors, and researchers who want to learn or teach practical image analysis techniques, including segmentation, tracking, quantification, and visualization.
+This repository contains teaching materials, exercises, and resources for an **Image Processing and Analysis** lecture. It is intended for students, instructors, and researchers who want to learn or teach practical image analysis techniques, including segmentation, tracking, and quantification.
 
 The repository includes:
 
-- **Lecture slides**  
-- **Example images** for exercises  
 - **Jupyter/Colab notebooks** with hands-on tutorials  
 - **Supplementary resources** (datasets, references, and reading material)
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started with the excercise
 
 ### 1. Open a Notebook in Google Colab
 
@@ -38,13 +36,6 @@ Read comments and markdown cells carefully—they contain explanations and hints
 
 Ask questions or report issues via the GitHub Issues tab.
 
-👩‍🏫 Instructor Notes
-
-Materials are modular and can be adapted for lectures, workshops, or practical sessions.
-
-Notebooks include starter code and optional challenges for advanced students.
-
-All data is open-access or generated for teaching purposes.
 
 
 ⚖️ License
