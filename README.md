@@ -46,10 +46,10 @@ Ask questions or report issues via the GitHub Issues tab.
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **NEUBIAS** | European network for bioimage analysis, offering courses, workshops, and tutorials. | [NEUBIAS](https://www.neubias.org/) [NEUBIAS Training](https://neubias.github.io/training-resources/)) |
+| **NEUBIAS** | European network for bioimage analysis, offering courses, workshops, and tutorials. | [NEUBIAS](https://www.neubias.org/), [NEUBIAS Training](https://neubias.github.io/training-resources/) |
 | **Euro-BioImaging** | European infrastructure providing access to imaging technologies and training. | [Euro-BioImaging](https://www.eurobioimaging.eu/) |
 | **Image.sc** | Forum for image analysis discussion, plugin support, and community help. | [Image.sc](https://forum.image.sc/) |
-| **Bio-image Analysis Notebooks** | Forum for image analysis discussion, plugin support, and community help. | [Link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html) |
+| **Bio-image Analysis Notebooks** |Collection of python notebooks for image processing and analysis. | [Link](https://haesleinhuepf.github.io/BioImageAnalysisNotebooks/intro.html) |
 
 ### 2. Software & Tools
 
