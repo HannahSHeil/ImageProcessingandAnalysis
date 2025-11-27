@@ -38,6 +38,46 @@ Read comments and markdown cells carefully—they contain explanations and hints
 Ask questions or report issues via the GitHub Issues tab.
 
 
+---
+
+## Image Analysis Resources
+
+### 1. Learning & Community Platforms
+
+| Tool | Description | Link |
+|------|-------------|------|
+| **NEUBIAS** | European network for bioimage analysis, offering courses, workshops, and tutorials. | [NEUBIAS](https://www.neubias.org/) |
+| **Euro-BioImaging** | European infrastructure providing access to imaging technologies and training. | [Euro-BioImaging](https://www.eurobioimaging.eu/) |
+| **Image.sc** | Forum for image analysis discussion, plugin support, and community help. | [Image.sc](https://forum.image.sc/) |
+
+### 2. Software & Tools
+
+| Tool | Description | Link |
+|------|-------------|------|
+| **Fiji** | Open-source image processing package with extensive plugins for microscopy and bioimage analysis. | [Fiji](https://fiji.sc/) |
+| **BioVoxxel Toolbox** | Collection of ImageJ/Fiji plugins for advanced image processing tasks. | [BioVoxxel Toolbox](https://imagej.net/plugins/biovoxxel-toolbox) |
+| **Napari** | Python-based interactive multi-dimensional image viewer with plugin support. | [Napari](https://napari.org/) |
+| **Google Colab** | Cloud-based Jupyter notebook environment for running Python code and image analysis workflows. | [Colab](https://colab.research.google.com/) |
+
+
+### 3. AI / Deep Learning Resources
+
+| Tool | Description | Link |
+|------|-------------|------|
+| **ZeroCostDL4Mic** | Framework for running deep learning models for microscopy on cloud platforms with minimal setup. | [ZeroCostDL4Mic](https://github.com/HenriquesLab/ZeroCostDL4Mic) |
+| **BioImage Model Zoo** | Repository of pre-trained deep learning models for microscopy image analysis. | [bioimage.io](https://bioimage.io/) |
+| **DeepImageJ** | Integrates deep learning models into Fiji/ImageJ for microscopy analysis. | [DeepImageJ](https://deepimagej.github.io/) |
+
+
+### 4. Utility Tools
+
+| Tool | Description | Link |
+|------|-------------|------|
+| **Nyquist Calculator** | Tool for calculating Nyquist sampling rates to ensure proper image resolution. | [Nyquist Calculator](https://imagej.net/plugins/nyquist-calculator) |
+
+
+
+
 
 ⚖️ License
 
