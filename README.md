@@ -96,6 +96,9 @@ Ask questions or report issues via the GitHub Issues tab.
 **Brocher, J.** (2025). *BioVoxxel 3D Box (bv3dbox).* Zenodo. [https://doi.org/10.5281/ZENODO.17702242](https://doi.org/10.5281/ZENODO.17702242)  
 **➜** 3D image analysis; Fiji plugin
 
+**Gonzalez, R. C., & Woods, R. E.** (2017). *Digital image processing (Fourth edition, global edition).* Pearson.  
+**➜** Fundamental textbook; image processing theory and algorithms
+
 **Hinderling, L., Heil, H. S., Rates, A., et al.** (2025). *Smart Microscopy: Current Implementations and a Roadmap for Interoperability.* [https://doi.org/10.1101/2025.08.18.670881](https://doi.org/10.1101/2025.08.18.670881)  
 **➜** Smart microscopy; automation; hardware–software integration
 
