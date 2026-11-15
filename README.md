@@ -22,7 +22,7 @@ The repository includes:
 
 Click the **“Open in Colab”** badge or open directly via Colab:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/HannahSHeil/ImageProcessingandAnalysis/blob/main/notebooks/CellSegmentation_Exercise_guided_2026.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HannahSHeil/ImageProcessingandAnalysis/blob/main/notebooks/CellSegmentation_Exercise_guided_2026.ipynb)
 
 > Students should **make a copy** of the notebook in their own Google Drive to run and modify it independently.
 
